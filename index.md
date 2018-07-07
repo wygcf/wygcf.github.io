@@ -1,8 +1,17 @@
 ## 欢迎来到 耀国之家
 
-You can use the [editor on GitHub](https://github.com/wygcf/wygcf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+我是耀国之家创始人 王耀国春飞wygcf
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+下面个人介绍一下我(本站站长)
+
+姓名：王耀国
+性别：男
+生日：2001年2月4日
+国籍：中国
+民族：汉族
+籍贯：河北省张家口市
+星座：水瓶座
+爱好：IT-MUSIC
 
 ### Markdown
 
